@@ -1,0 +1,23 @@
+.form{
+    background-color: aqua;
+}
+label{
+    font-size: 30px;
+    margin-left: 35%;
+}
+input{
+    font-size: large;
+    border-color: blue;
+    box-shadow: 0px 0px 8px royalblue;
+
+}
+#Button{
+    margin-top: 40px;
+    margin-left: 40%;
+    font-size:30px;
+   background-color:black
+    color(srgb red green blue)
+}
+thead{
+padding-left: 50px;
+}
